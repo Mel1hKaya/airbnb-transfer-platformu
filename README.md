@@ -187,30 +187,9 @@ define('DB_PASS', '');           // ← kendi şifren
 http://localhost/airbnb_transfer/
 ```
 
-**6. Test hesabıyla giriş yap:**
-```
-E-posta : admin@airbnb-transfer.com
-Şifre   : Test1234
-```
 
 ---
 
-## 📋 Puanlama Kriterleri Karşılama Tablosu
-
-| # | Kriter                                      | Durum |
-|---|---------------------------------------------|-------|
-| 1 | Kullanıcı kaydı                             | ✅ `register.php` |
-| 2 | Oturum açma / kapama                        | ✅ `login.php` + `logout.php` |
-| 3 | Kullanıcı tarafından bilgi girişi (Create)  | ✅ `add_transfer.php` |
-| 4 | Girilen bilgilerin listelenmesi (Read)      | ✅ `index.php` |
-| 5 | Bilgi güncelleme (Update)                   | ✅ `edit_transfer.php` |
-| 6 | Bilgi silme (Delete)                        | ✅ `delete_transfer.php` |
-| 7 | Hazır CSS kütüphanesi kullanımı             | ✅ Bootstrap 5.3 |
-| 8 | GitHub reposunda README.md                  | ✅ Bu dosya |
-| 9 | README'de ekran görüntüsü + video bağlantısı| ✅ `screenshots/` + video linki |
-|10 | Canlıya alınma ve hosting'de çalışma        | 🔲 Deploy edilecek |
-
----
 
 ## 📌 Kurallara Uyum
 
