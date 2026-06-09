@@ -23,19 +23,19 @@ Sistem; kullanıcı kaydı ve güvenli girişten başlayarak transfer ekleme, li
 ## 🖼️ Ekran Görüntüleri
 
 ### Giriş Sayfası
-![Login](screenshots/login.png)
+![Login](login.png)
 
 ### Kayıt Sayfası
-![Register](screenshots/register.png)
+![Register](register.png)
 
 ### Transfer Listesi (Ana Sayfa)
-![Index](screenshots/index.png)
+![Index](index.png)
 
 ### Yeni Transfer Ekle
-![Add Transfer](screenshots/add_transfer.png)
+![Add Transfer](add_transfer.png)
 
 ### Transfer Düzenle
-![Edit Transfer](screenshots/edit_transfer.png)
+![Edit Transfer](edit_transfer.png)
 
 ---
 
@@ -212,7 +212,7 @@ E-posta : admin@airbnb-transfer.com
 
 ---
 
-## 📌 Hocanın Kurallarına Uyum
+## 📌 Kurallara Uyum
 
 | Kural                                        | Durum |
 |----------------------------------------------|-------|
@@ -229,11 +229,10 @@ E-posta : admin@airbnb-transfer.com
 
 | | |
 |---|---|
-| **Ad Soyad** | — |
-| **Öğrenci No** | — |
+| **Ad Soyad** | Ahmet Melih Kaya |
 | **Ders** | Web Tabanlı Programlama |
-| **GitHub** | — |
+
 
 ---
 
-> *Bu proje, Web Tabanlı Programlama dersi final ödevi kapsamında geliştirilmiştir.*
+> *Bu proje, Web Tabanlı Programlama dersi final projesi kapsamında geliştirilmiştir.*
